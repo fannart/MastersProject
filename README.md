@@ -15,5 +15,6 @@ The project was developed with Qt in C++ and uses the glm mathematics library.
 ## About 
 
 [PathTracer](https://github.com/fannart/MastersProject/tree/master/PathTracer) - Contains the code for the pathtracer and the viewer client. 
+
 [ProjectScreenshots](https://github.com/fannart/MastersProject/tree/master/ProjectScreenshots) - Contains screenshots of the pathtracer from various tasting stages of development. 
 
