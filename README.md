@@ -6,7 +6,7 @@ As a project for my masters degree, I researched and created a pathtracer over t
 
 ## Abstract from thesis
 
-The aim of this project was to implement a ray caster, as presented by [Appel](http://dl.acm.org/citation.cfm?id=1468082) with the addition of an interactive component. The implementation was to be built towards a path tracer, as suggested by [Kajiya](http://dl.acm.org/citation.cfm?id=15902) as a method for solving the rendering equation presented in the same paper. Path tracing is a more evolved method for light transport, allowing for global illumination and more physically accurate shading. The result is a global illumination renderer with lambertian surfaces, requiring additional work for interactivity and addition of reective and transmittive surfaces.
+The aim of this project was to implement a ray caster, as presented by [Appel](http://dl.acm.org/citation.cfm?id=1468082) with the addition of an interactive component. The implementation was to be built towards a path tracer, as suggested by [Kajiya](http://dl.acm.org/citation.cfm?id=15902) as a method for solving the rendering equation presented in the same paper. Path tracing is a more evolved method for light transport, allowing for global illumination and more physically accurate shading. The result is a global illumination renderer with lambertian surfaces, requiring additional work for interactivity and addition of reflective and transmittive surfaces.
 
 ## Development 
 
