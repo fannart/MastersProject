@@ -1,0 +1,48 @@
+# Standard C++ ignores
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+# System files
+.fuse*
+
+
+#Project specific ignores
+# Executable
+PathTracer/PathTracer
+
+# moc files
+PathTracer/moc/*
+
+# ui header files
+PathTracer/ui_MainWindow.h
+
+# User settings
+PathTracer/PathTracer.pro.user
